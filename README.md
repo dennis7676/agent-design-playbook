@@ -1,5 +1,7 @@
 # Agent Design Playbook
 
+🌐 [한국어 버전 (Korean)](ko/README.md)
+
 > A practical guide to designing AI agent systems — not from theory, but from building and operating 166 production assets over 2 months.
 
 ## Why This Exists
